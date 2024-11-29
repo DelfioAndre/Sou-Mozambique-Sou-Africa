@@ -81,7 +81,7 @@ section.parede {
 }
 section.parede > p{
     margin-bottom: 20px;
-    background-color: #80808094;
+    background-color: rgba(0, 0, 0, 0.589);
     border-radius: 10px;
 }
 section#first {
